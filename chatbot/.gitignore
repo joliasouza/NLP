@@ -1,0 +1,5 @@
+# Ignorar o arquivo de configuração com a chave da API
+config.py
+
+# Ignorar a pasta __pycache__ gerada pelo Python
+__pycache__/
